@@ -26,6 +26,5 @@ def nyc_pigeon_organizer(data)
     }
   }
 
-  puts new_hash
   new_hash
 end
